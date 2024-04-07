@@ -1,2 +1,2 @@
-# animal_detection
- Predict the image and tell the type of animal
+# digit_detection
+ Predict the image and tell the type of digit
